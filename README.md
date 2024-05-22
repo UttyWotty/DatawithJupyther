@@ -6,3 +6,4 @@ Some exercised using Jupyhter Notebook
 3. Data Scrapping for Largest Companies in the US (used this onfo for #2)
 4. Data Scraping exercise
 5. NBA Top 75 list web scraping from wikipedia
+6. Data Analyze exercise with the Top75 data that web scraped from wikipedia
